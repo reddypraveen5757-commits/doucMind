@@ -1,0 +1,7 @@
+{
+  "name": "DocuMind – AI-Powered Document Analysis Assistant",
+  "description": "A beginner-friendly AI document assistant for students and organizations to upload documents, generate summaries, key points, keywords, action items, chat with documents, and compare files with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
